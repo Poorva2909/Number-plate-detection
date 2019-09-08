@@ -1,5 +1,5 @@
 import sqlite3
-import AnushkaSolanki_Predict
+import PredictCharacters
 conn=sqlite3.connect('minor.db')
 q=conn.cursor()
 #for first time creation of DB
