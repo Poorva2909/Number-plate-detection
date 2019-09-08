@@ -1,4 +1,4 @@
-import AnshulPaliwal
+import SegmentCharacters
 import pickle
 
 print("Finalized model loading…..")
